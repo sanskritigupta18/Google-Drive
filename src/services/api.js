@@ -1,4 +1,4 @@
-const BASE_URL = "https://google-drive-backend-3p6k.onrender.com";
+const BASE_URL = "https://google-drive-backend-3p6k.onrender.com/api/v1";
 
 export const userEndpoints = {
     REGISTER_USER: BASE_URL + "/user/register",
