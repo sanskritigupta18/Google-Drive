@@ -1,4 +1,4 @@
-const BASE_URL = process.env.REACT_APP_BASE_URL;
+const BASE_URL = "https://google-drive-backend-3p6k.onrender.com";
 
 export const userEndpoints = {
     REGISTER_USER: BASE_URL + "/user/register",
